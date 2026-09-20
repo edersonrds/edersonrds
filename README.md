@@ -5,8 +5,6 @@
 
 Backend software engineer with experience in high-volume financial and payment systems. Previously at **Mercado Livre** and **Santander**.
 
-Currently open to new opportunities.
-
 ### Tech
 
 - **Languages:** Java
